@@ -28,11 +28,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Commands\" />
-    <Folder Include="Controllers\" />
-    <Folder Include="Queries\" />
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-
 </Project>
